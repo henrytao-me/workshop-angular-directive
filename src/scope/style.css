@@ -1,0 +1,8 @@
+/* Put your css in here */
+.separator {
+  height: 1px;
+  width: 100%;
+  background-color: #000;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
